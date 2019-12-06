@@ -74,37 +74,37 @@
      <None Include="Assets\Textures and Sprites\SF UI\Background\LICENSE.txt" />
      <None Include="Assets\Materials\UI-Default-No-Alpha.shader" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/ProyectoRAA/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/ProyectoRAA/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="VuforiaScripts">
- <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
+ <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/ProyectoRAA/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/ProyectoRAA/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/ProyectoRAA/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/ProyectoRAA/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="VuforiaEditorScripts">
- <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/Library/ScriptAssemblies/VuforiaEditorScripts.dll</HintPath>
+ <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/ProyectoRAA/Library/ScriptAssemblies/VuforiaEditorScripts.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/ProyectoRAA/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/ProyectoRAA/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/ProyectoRAA/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/ProyectoRAA/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -278,7 +278,7 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
  </Reference>
  <Reference Include="Vuforia.UnityExtensions">
- <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/Library/PackageCache/com.ptc.vuforia.engine@8.5.9/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
+ <HintPath>C:/Users/Miguel/Desktop/RAA/ProyectoRAA/ProyectoRAA/Library/PackageCache/com.ptc.vuforia.engine@8.5.9/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.12f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
