@@ -11,7 +11,6 @@ ScriptsOnlyBuild:
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -87,17 +86,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10458}
     - Class: 114
-      Script: {instanceID: 10864}
+      Script: {instanceID: 10472}
     - Class: 114
-      Script: {instanceID: 11052}
+      Script: {instanceID: 10866}
     - Class: 114
-      Script: {instanceID: 11318}
+      Script: {instanceID: 11054}
     - Class: 114
-      Script: {instanceID: 11430}
+      Script: {instanceID: 11320}
     - Class: 114
-      Script: {instanceID: 11744}
+      Script: {instanceID: 11432}
     - Class: 114
-      Script: {instanceID: 14186}
+      Script: {instanceID: 11746}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -541,6 +540,12 @@ ScriptsOnlyBuild:
     assemblyName: Vuforia.UnityExtensions.dll
     namespaceName: Vuforia
     className: WireframeTrackableEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: e49cecec6584eef04ad010195e35eb5b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: VideoFondo
   - hash:
       serializedVersion: 2
       Hash: 0077fc8e4fbae67f80e80ebd534de5a0
@@ -1423,12 +1428,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: e49cecec6584eef04ad010195e35eb5b
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: VideoFondo
   platform: 13
   scenePathNames:
   - Assets/Scenes/Escena.unity
