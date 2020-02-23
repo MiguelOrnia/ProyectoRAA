@@ -1,3 +1,2 @@
 # RAA Project
-Augmented reality application made with Unity and Vuforia, in the subject of
-Augmented Reality and Accessibility of the University of Oviedo.
+Augmented reality application made with Unity and Vuforia for Augmented Reality and Accessibility course at Universidad de Oviedo. 
