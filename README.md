@@ -1,3 +1,3 @@
-# Proyecto de RAA
-Aplicación de realidad aumentada realizada con Unity y Vuforia en la asignatura de 
-Realidad y Accesibilidad Aumentadas de la Universidad de Oviedo.
+# RAA Project
+Augmented reality application made with Unity and Vuforia, in the subject of
+Augmented Reality and Accessibility of the University of Oviedo.
